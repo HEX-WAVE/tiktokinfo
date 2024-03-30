@@ -2,7 +2,7 @@ import requests
 
 def tiktok():
     logo = ("""
-     
+    
  ██░ ██ ▓█████ ▒██   ██▒    █     █░ ▄▄▄    ██▒   █▓▓█████ 
 ▓██░ ██▒▓█   ▀ ▒▒ █ █ ▒░   ▓█░ █ ░█░▒████▄ ▓██░   █▒▓█   ▀ 
 ▒██▀▀██░▒███   ░░  █   ░   ▒█░ █ ░█ ▒██  ▀█▄▓██  █▒░▒███   
@@ -12,10 +12,9 @@ def tiktok():
  ▒ ░▒░ ░ ░ ░  ░░░   ░▒ ░     ▒ ░ ░    ▒   ▒▒ ░░ ░░   ░ ░  ░
  ░  ░░ ░   ░    ░    ░       ░   ░    ░   ▒     ░░     ░   
  ░  ░  ░   ░  ░ ░    ░         ░          ░  ░   ░     ░  ░
-                     FaceBook-"Hex Wave"
-                     Github  -"HEX-WAVE" 
-  
-     """)                                                                                                    """)
+                                                ░          
+ 
+    """)
     print(logo)
     
     user_input = input('Enter Tiktok Username: ')
